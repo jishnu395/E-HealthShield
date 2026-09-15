@@ -1,4 +1,4 @@
-﻿# E-HealthShield
+# E-HealthShield
 
 [![Backend Tests](https://img.shields.io/badge/Backend%20Tests-118%2F118%20Passed-success.svg)](#testing--verification)
 [![Frontend Tests](https://img.shields.io/badge/Frontend%20Tests-18%2F18%20Passed-success.svg)](#testing--verification)
@@ -448,3 +448,13 @@ The E-HealthShield project is **fully completed**. All core components—includi
 - **Project Title**: E-HealthShield: A Quantum-Secure and Blockchain-Auditable Framework for Electronic Health Records
 - **Institutional Context**: Academic Research Project (Department of Information Science & Engineering / Dept. of ICBT, SMVIT / VTU, 2025–2026)
 - **Status**: Completed Implementation
+
+---
+
+## Project Contributors
+
+E-HealthShield was developed as a four-member academic research project by:
+- **Jishnu V**
+- **Syed Abdulla**
+- **Sumanth L**
+- **Nischay B**

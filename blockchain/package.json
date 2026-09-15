@@ -1,0 +1,20 @@
+{
+  "name": "ehealthshield-blockchain",
+  "version": "1.0.0",
+  "description": "Ethereum Sepolia Smart Contracts for E-HealthShield",
+  "scripts": {
+    "node": "hardhat node",
+    "compile": "hardhat compile",
+    "test": "hardhat test",
+    "deploy:local": "hardhat run scripts/deploy.js --network localhost",
+    "deploy:sepolia": "hardhat run scripts/deploy.js --network sepolia"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.22.0"
+  },
+  "dependencies": {
+    "@noble/post-quantum": "^0.7.0",
+    "pg": "^8.23.0"
+  }
+}

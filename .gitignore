@@ -1,0 +1,32 @@
+# Environment/secrets
+.env
+.env.*
+!.env.example
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Frontend build
+dist/
+
+# Java/Maven
+target/
+
+# Hardhat
+blockchain/artifacts/
+blockchain/cache/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
